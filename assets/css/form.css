@@ -1,0 +1,22 @@
+.clicksendLeadcaptureform{
+}
+#clicksendLeadcaptureform table{
+	margin:0;
+	border:none;
+}
+#clicksendLeadcaptureform table td{
+	padding:15px 5px;
+	border:none;
+}
+#clicksendLeadcaptureform table td.label{
+	width:30%;
+}
+#clicksendLeadcaptureform table td.form-field input, #clicksendLeadcaptureform table td.form-field select{
+	width:100%;
+	padding:10px 5px;
+}
+
+#clicksendLeadcaptureform table input.button{
+	padding:12px 36px;
+	font-size:16px;
+}
